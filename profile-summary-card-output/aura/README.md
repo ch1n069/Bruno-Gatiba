@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/ch1n069/Bruno-Gatiba/master/profile-summary-card-output/aura/4-productive-time.svg)
+```
+
+    
